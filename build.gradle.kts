@@ -27,7 +27,7 @@ kotlin {
 
 dependencies {
     val arcVersion = "0.124.0"
-    val langchain4jVersion = "0.36.2"
+    val langchain4jVersion = "1.23.0"
 
     // Arc
     implementation("org.eclipse.lmos:arc-azure-client:$arcVersion")
